@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Equation\Equation.csproj" />
+  </ItemGroup>
+
 </Project>
